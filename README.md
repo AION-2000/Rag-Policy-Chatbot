@@ -165,7 +165,7 @@ rag-policy-chatbot/
 └── requirements.txt                # Python dependencies
 
 
-## Submission Details
+# Submission Details
 
 This project was completed as a technical task for **Softvence Agency**.
 
