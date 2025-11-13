@@ -93,9 +93,9 @@ This application requires a Google Gemini API key to function.
 ## Running the Application
 
 Once the installation and configuration are complete, you can start the application with a single command:
-
-```bash
 streamlit run app.py
+```bash
+
 
 # RAG Policy Chatbot
 
