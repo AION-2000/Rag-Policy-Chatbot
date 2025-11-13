@@ -164,3 +164,13 @@ rag-policy-chatbot/
 ├── app.py                          # Main Streamlit application
 ├── README.md                       # This file
 └── requirements.txt                # Python dependencies
+
+
+## Submission Details
+
+This project was completed as a technical task for **Softvence Agency**.
+
+- **Candidate:** [Shihab Shahriar Aion]  
+- **Task:** Build a RAG-based chatbot for company policies.  
+- **Repository:** [ GitHub repository](https://github.com/AION-2000/Rag-Policy-Chatbot)]
+
