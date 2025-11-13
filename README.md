@@ -36,9 +36,8 @@ A Retrieval-Augmented Generation (RAG) chatbot designed to answer questions abou
 
 ## Demo
 
-*(Optional: Add a link to your demo video here)*
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/ffe2eafd-885d-4bf2-9b2e-a30ecb0351f4" />
 
-For a quick overview, watch the demo video showing the chatbot in action.
 
 ---
 
