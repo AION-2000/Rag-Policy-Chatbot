@@ -1,6 +1,6 @@
 # 🏢 RAG-based Company Policy Chatbot
 
-A Retrieval-Augmented Generation (RAG) chatbot designed to answer questions about company policies accurately and efficiently, based solely on provided documents.
+A document-grounded company policy assistant that uses retrieval-augmented generation to answer questions from supplied policy files and show supporting sources.
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-red.svg)](https://streamlit.io/)
